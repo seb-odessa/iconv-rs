@@ -1,0 +1,11 @@
+[package]
+name = "iconv-rs"
+build = "build.rs"
+version = "0.1.0"
+authors = ["seb-odessa <seb@ukr.net>"]
+
+[dependencies]
+
+
+[build-dependencies]
+bindgen = "0.26.3"
